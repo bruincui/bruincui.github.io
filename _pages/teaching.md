@@ -1,12 +1,40 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### General Introduction to Artificial Intelligence
 
-Organize your courses by years, topics, or universities, however you like!
+- Undegraduate course, Longshan Honors School, Shandong University of Finance and Economics
+- Freshman fall semester, 12 weeks, 2 class hours per week
+- Syllabus
+  - Introduction (2 hours)
+  - Knowledge Representation and Reasoning (4 hours)
+  - Search Methods (2 hours)
+  - Nature-Inspired Computational Intelligence (2 hours)
+  - Machine Learning (4 hours)
+  - Neural Networks and Deep Learning (4 hours)
+  - Generative Artificial Intelligence (2 hours)
+  - General Large Language Models (2 hours)
+  - AI+ Research (2 hours)
+
+
+#### Deep Learning
+
+- Graduate course, School of Computer Science and Technology, Shandong University of Finance and Economics
+- First-year graduate spring semester, 16 weeks, 2 class hours per week
+- Syllabus
+  - Introduction (2 hours)
+  - Neural Network Optimization (4 hours)
+  - Convolutional Neural Networks (4 hours)
+  - Recurrent Neural Networks (2 hours)
+  - Attention Mechanism (4 hours)
+  - Pre-trained Model (4 hours)
+  - Graph Neural Networks (2 hours)
+  - Deep Reinforcement Learning (4 hours)
+  - Generative Adversarial Networks (2 hours)
+  - VAE & Diffusion Model (4 hours)

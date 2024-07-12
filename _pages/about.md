@@ -1,25 +1,36 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
+
+
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  align: left
+  image: Chaoran.jpg
+  image_circular: true # crops the image to make it circular
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
+  more_info:
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+PhD, Professor, PhD Supervisor<br>
+School of Computer Science and Technology, Shandong University of Finance and Economics<br>
+Room 1402-2, Building 1, No. 7366 Erhuan Road, Jinan, China<br>
+<bruincui@gmail.com> | <crcui@sdufe.edu.cn><br>
+<!-- [Google scholar](https://scholar.google.com.hk/citations?user=atohSZ8AAAAJ) | [DBLP](https://dblp.org/pid/23/8313.html) -->
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Dr. Chaoran Cui was born in 1987 in Jinan, China. He received his PhD degree in Computer Science from [the Information Retrieval Lab of Shandong University](https://ir.sdu.edu.cn/) in 2015, under the supervision of Prof. Jun Ma (马军). Prior to that, he received his bachelor's degree in Software Engineering from Shandong University in 2010. During 2015-2016, he worked as a postdoctoral research fellow at Singapore Management University, in collaboration with Prof. Jialie Shen. He is currently a full professor in School of Computer Science and Technology at Shandong University of Finance and Economics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Research interest:**
+- Machine learning: domain adaptation/generalization, test-time adaptation, vision-language model generalization, semi-supervised learning, and related applications.
+- Data Mining: educational data mining and financial data mining.
+
+🚩 **I am always looking for highly motivated master and PhD students with related research interests and background. Please feel free to send your CV and TRANSCRIPTS to me via email.**
